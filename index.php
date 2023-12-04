@@ -1,6 +1,6 @@
 <?php 
-/* start adding comment here */
+/* start adding comment here new */
 phpinfo();
-/* end of comment here */
+/* end of comment here new */
 
 ?>
