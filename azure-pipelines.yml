@@ -29,4 +29,4 @@ steps:
     git branch
     git remote add github https://$(GITHUB-USER):$(GITHUB-PAT)$(GITHUB-URL)$(GITHUB-REPONAME)
     git remote -v
-    git push -f github $(Build.SourceBranchName)
+    git push github $(Build.SourceBranchName)
